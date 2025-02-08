@@ -1,0 +1,44 @@
+*{
+    margin: 5px;
+}
+.image{
+    height:150px;
+    width:150px;
+    
+}
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    gap:50px;
+}
+.lan{
+    color: purple;
+    font-weight:bold ;
+    margin: auto;
+    font-size: 20px;
+
+}
+.a{
+    text-decoration: none;
+    color: orangered;
+    font-size: 20px;
+    
+   
+}
+label{
+    font-size: 20px;
+}
+input{
+    height: 30px;
+    width: 1300px;
+    color: aliceblue;
+    font-size: 20px;
+}
+.search{
+    display: flex;
+}
+.search img{
+     padding: 5px;
+    position: absolute;
+    right:30px;
+}

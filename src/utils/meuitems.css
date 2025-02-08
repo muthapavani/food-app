@@ -1,0 +1,14 @@
+.link{
+    
+    display: flex;
+    gap:30px;
+    list-style:none;
+    margin: auto;
+    font-size: 25px;
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+    color:purple;
+
+}

@@ -1,0 +1,31 @@
+.head1{
+    color:purple;
+    text-align: center;
+
+}
+.div{
+    
+    background-color: rgb(221, 218, 218);
+    padding:10px
+}
+.one{
+    background-color:#f86936;
+}
+.recipes{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap:10px;
+}
+.recipes div:hover{
+    background-color:#f86936;
+}
+
+.recipes div{
+    background-color:white;
+    width:100px;
+    text-align: center;
+    color:purple;
+
+}
+

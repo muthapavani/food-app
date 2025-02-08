@@ -1,0 +1,10 @@
+.scroll{
+    display: flex;
+
+}
+.head{
+    color: orangered;
+}
+img{
+    border-radius: 8px;
+}
