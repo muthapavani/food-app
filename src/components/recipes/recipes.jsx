@@ -1,4 +1,4 @@
-import "./Recipes.css"
+import "./recipes.css"
 const Recipes=()=>{
     return(
         <>
